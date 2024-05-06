@@ -4,7 +4,7 @@ This demo app shows a simple user profile app set up using
 - index.html with pure js and css styles
 - nodejs backend with express module
 - mongodb for data storage
-
+ 
 All components are docker-based
 
 I’ve also set up a private Docker repository on AWS ECR, pushed containers to the repository, and then pulled them again.
